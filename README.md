@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mobina02
 - 👀 I’m interested in SKATE🛼❤️ 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Computer Engineering💻 
+- 🌱 I’m currently learning Computer Engineering💻
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me Python 👾
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
